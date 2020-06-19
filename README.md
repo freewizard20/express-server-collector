@@ -2,7 +2,7 @@
 
 A simple express server application to acquire REST API calls periodically to save financial information to CSV files.
 
-- **important : the real repository is private for sensitive information. This is only usable for code-examples.**
+- ***important : the real repository is private for sensitive information. This is only usable for code-examples.***
 
 ## tech stack
 
